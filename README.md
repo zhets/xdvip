@@ -8,12 +8,6 @@
 ### UPDATE SCRIPT
 <pre><code>wget https://raw.githubusercontent.com/zhets/xdvip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-
-### WAJIB IZIN IP CONTACT ADMIN ©FAST VPN
-https://wa.me/6285712349668
-
-
-
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
